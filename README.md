@@ -1,2 +1,14 @@
 # HMBF
-Hi penggunaan Hmbf\nh
+Hi penggunaan Hmbf gunakan SC sewajarnya
+
+# commad 
+
+pkg install git python2
+
+pip install bs4 futures request mechanize
+
+git clone https://github.com/Hakiki-XC/HMBF
+
+cd HMBF
+
+python run.py
