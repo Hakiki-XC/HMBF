@@ -11,4 +11,6 @@ git clone https://github.com/Hakiki-XC/HMBF
 
 cd HMBF
 
+git pull
+
 python run.py
